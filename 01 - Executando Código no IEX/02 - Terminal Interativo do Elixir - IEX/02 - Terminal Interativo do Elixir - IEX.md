@@ -1,0 +1,3 @@
+Para entrar no terminal interativo do **Elixir**, usamos o comando `iex` no prompt.
+Para obtermos ajuda no terminal do **Elixir**, usamos o comando `h`.
+Para termos informações sobre um tipo de dado, utilizamos a função `i 1` ou `i(1)`, com o valor `1` como tipo de dado, o `i` é uma função, em que no **Elixir**, pode ser executada com 1 espaço ` ` ou usando `()` como em outras linguagens. Nas funções, podemos passar **2 parâmetros** usando `i 1 2` ou `i(1, 2)`.
