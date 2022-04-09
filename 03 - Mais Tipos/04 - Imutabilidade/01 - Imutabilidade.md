@@ -1,0 +1,2 @@
+Para adicionar valores à uma lista usando uma função, usamos `List.insert_at(LIST_NAME, INDEX, VALUE)` para adicionar no índice da lista `X`, o valor que queremos inserir.
+Ao usar essa função, a lista original não mudou sua estrutura, assim essa função retorna uma **nova lista**.

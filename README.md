@@ -64,3 +64,31 @@ URL do curso -> [Elixir: Sintaxe, Programação funcional e Pattern Matching](ht
 * Retornar o 1º elemento de uma lista e o restante dos valores.
 * Adicionar valor no **começo** da lista.
 * Atribuir valores de lista à variáveis.
+
+***
+
+## 03 - Mais Tipos
+* Falamos sobre Mapas.
+* Conhecemos o tipo de dados Atom.
+* Aprendemos a usar tuplas.
+* Conhecemos keyword lists.
+* Aprendemos sobre imutabilidade no Elixir.
+
+### 01 - Mapas
+* Criar **mapa** de valores.
+* Acessar os valores de um **mapa**.
+
+### 02 - Atoms
+* O que é um **Atom**.
+* Características do **atom**.
+* Criar **keyword list**.
+* Usar **Tuplas** com **keyword Lists**.
+
+### 03 - Tuplas
+* O que é uma **tupla**.
+* Como criar uma **tupla**.
+* Como acessar o valor de uma **tupla**.
+
+### 04 - Imutabilidade
+* Função para adicionar valores em uma **lista**.
+* Ao usar a função de adicionar valores em uma **lista**, a lista original não é alterada.
