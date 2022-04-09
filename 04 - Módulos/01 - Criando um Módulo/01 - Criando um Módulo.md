@@ -1,0 +1,2 @@
+**Módulos** são definições de funções que são definidas dentro deles, ou seja, são agrupamentos de funções.
+Vários Módulos estão dentro do **Kernel**, onde não é necessário colocar um `.` toda vez que formos utilizar alguma função comum na linguagem.

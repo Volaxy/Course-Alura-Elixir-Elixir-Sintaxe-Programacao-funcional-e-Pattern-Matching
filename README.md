@@ -92,3 +92,32 @@ URL do curso -> [Elixir: Sintaxe, Programação funcional e Pattern Matching](ht
 ### 04 - Imutabilidade
 * Função para adicionar valores em uma **lista**.
 * Ao usar a função de adicionar valores em uma **lista**, a lista original não é alterada.
+
+***
+
+## 04 - Módulos
+* Conhecemos os módulos do Elixir.
+* Criamos nosso próprio módulo.
+* Aprendemos a criar funções.
+* Vimos as diretivas import, alias e require para trabalhar com módulos.
+
+### 01 - Criando um Módulo
+* O que são **Módulos**.
+* Difereça entre a extensão `.ex` e `.exs`.
+* Definir **Módulos**.
+* Criar **funções** para os **módulos**.
+* Executar scripts pelo terminal.
+* Atualizar um módulo com a versão mais recente no terminal.
+
+### 02 - Mais de um Módulo
+* Retorno de funções no **Elixir**.
+* Importar somente 1 função específica.
+* Evitar a importação de funções específicas.
+
+### 03 - Aliases
+* Importar o **módulo** de outro arquivo.
+* Substituir o nome do **módulo** original por um novo.
+
+### 04 - Require Macros
+* Como importar uma macro.
+* O que é escopo léxico.
