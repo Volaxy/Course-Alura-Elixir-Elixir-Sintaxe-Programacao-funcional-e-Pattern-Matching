@@ -121,3 +121,24 @@ URL do curso -> [Elixir: Sintaxe, Programação funcional e Pattern Matching](ht
 ### 04 - Require Macros
 * Como importar uma macro.
 * O que é escopo léxico.
+
+***
+
+## 05 - Funções e Pattern Matching
+* Aprendemos sobre pattern matching.
+* Conhecemos novos detalhes de sintaxe ao definir funções.
+* Aprendemos sobre definição de funções anônimas.
+
+### 01 - Pattern Matching
+* O significado do `=` no **Elixir**.
+* Sintaxe do **Pattern Matching**.
+* Como ignorar valores de uma lista.
+
+### 02 - Detalhes de Sintaxe
+* O que são **funções de primeira classe**.
+* Funções de 1 linha.
+* Criar **funções privadas**.
+
+### 03 - Funções Anônimas
+* Atribuir uma função à uma variável.
+* Criar uma **função anônima**.
