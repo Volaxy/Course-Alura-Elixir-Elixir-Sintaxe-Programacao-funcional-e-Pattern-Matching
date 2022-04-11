@@ -142,3 +142,23 @@ URL do curso -> [Elixir: Sintaxe, Programação funcional e Pattern Matching](ht
 ### 03 - Funções Anônimas
 * Atribuir uma função à uma variável.
 * Criar uma **função anônima**.
+
+***
+
+## 06 - Controle de Fluxo
+* Vimos como escrever if/else em Elixir.
+* Aprendemos a usar `cond` e `case`.
+* Aprendemos a realizar loops com recursão.
+
+### 01 - Bom e Velho if else
+* Condicionais de `if` e `else`.
+* Usar o bloco `unless`.
+* Retornar um valor padrão caso seja passado um valor específico.
+
+### 02 - Conder vs Pattern Matching
+* Reduzir `ifs` e `elses` com `case`.
+* Definir um valor padrão.
+* Usar a condicional `conde`.
+
+### 03 - Recursão
+* Executar uma função de multiplicação com recursão.
